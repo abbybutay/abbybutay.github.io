@@ -9,7 +9,7 @@
     "summary": "I am studying for a B.A. in Information and Computer Sciences at the University of Hawaii . I expect to graduate in Spring, 2028.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "abbybutay", "url": "http://github.com/abbybutay.github.io" },
+      { "network": "github", "username": "abbybutay", "url": "https://abbybutay.github.io" },
       { "network": "linkedin", "username": "abigail-butay", "url": "http://linkedin.com/in/abigail-butay-624832433" }
     ]
   },
