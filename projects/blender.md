@@ -6,8 +6,7 @@ title: "Blender Model"
 date: 2025
 published: true
 labels:
-  - Lisp
-  - GitHub
+  - 3D Modeling
 summary: "A low poly model I made using Blender, a 3D modeling software."
 ---
 
