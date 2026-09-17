@@ -8,3 +8,4 @@ published: true
 labels:
   - Journey
 ---
+<img class="img-fluid" src="../img/pick-a-college-major.jpg">
