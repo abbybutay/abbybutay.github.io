@@ -17,6 +17,10 @@ Here’s an example of a smart question, based on Raymond’s article:
 
 <img src="..." class="img/question1.png" alt="...">
 
+<img width="200px" 
+     class="rounded float-start pe-4" 
+     src="../img/question1.png" >
+
 The header was straightforward and the question had proper grammar. The asker made an effort to read to find an answer, wanted guidance to understand, and specified what they were confused about. 
 
 # Here's what not to do when asking a question. 
