@@ -6,7 +6,8 @@ title: "Room For Two More Languages?"
 date: 2026-09-10
 published: true
 labels:
-  - Engineering
+  - TypeScript
+  - JavaScript
 ---
 
 <img width="200px" 
