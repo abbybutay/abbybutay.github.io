@@ -22,6 +22,8 @@ The header was straightforward and the question had proper grammar. The asker ma
 # Here's what not to do when asking a question. 
 Now here’s an example of a bad question:
 
+<img class="img-fluid" src="../img/question2.png">
+
 The header doesn’t specify what the problem was and added “please help me,” which was unrelated to the question. The asker didn’t try to find an answer, where they could’ve searched online what the error meant. They also didn’t show what part of the code causes the error, only providing the entire code. Also, a link was added where the question was already answered, making it clear that the asker didn’t put in any effort. 
 
 In conclusion, the ability of asking smart questions will enable clear communication on both sides. The person that’ll answer your question will need to understand the problem to provide a proper solution. 
