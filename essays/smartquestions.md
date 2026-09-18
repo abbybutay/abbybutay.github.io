@@ -27,7 +27,7 @@ From this screenshot, the header was straightforward and the question had proper
 <img class="img-fluid" src="../img/question2.png">
 
 
-There are multiple problems with this question. The header doesn’t specify what the problem was and adding “please help me" is unrelated to the question. The asker didn’t try to find an answer, where they could’ve searched online what the error meant. They also didn’t show what specific part of the code causes the error, only providing the entire code. Also, a link was added where the question was already answered, making it clear that the asker didn’t put in any effort to search the web. 
+There are multiple problems with this question. The header doesn’t specify what the problem was and adding “please help me" is unrelated to the question. The asker didn’t try to find an answer, when they could’ve searched online for what the error meant. They also didn’t show the specific part of the code that causes the error, only providing the entire code. Also, a link was added where the question was already answered, making it clear that the asker didn’t put in any effort to search the web. 
 
 In conclusion, the ability of asking smart questions will enable clear communication on both sides. 
 
