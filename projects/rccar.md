@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/car2.png
+image: img/car.png
 title: "Simple RC Car"
 date: 2025
 published: true
