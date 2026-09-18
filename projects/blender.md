@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/model.png
+image: img/model1.png
 title: "Blender Model"
 date: 2025
 published: true
