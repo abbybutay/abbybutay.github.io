@@ -19,7 +19,7 @@ Here’s an example of a smart question, based on Raymond’s article:
 <img class="img-fluid" src="../img/question1.png">
 
 
-From this screenshot, the header was straightforward and the question had proper grammar. The asker made an effort to read to find an answer, wanted guidance on what to understand, and specified what they were confused about. The question was able to recieve multiple detailed answers. 
+From this screenshot, the header was straightforward and the question had proper grammar. The asker made an effort to read to find an answer, wanted guidance on what to understand, and specified what they were confused about. The question was able to receive multiple detailed answers. 
 
 # Here's what not to do when asking a question. 
 
