@@ -19,7 +19,7 @@ Here’s an example of a smart question, based on Raymond’s article:
 <img class="img-fluid" src="../img/question1.png">
 
 
-The header was straightforward and the question had proper grammar. The asker made an effort to read to find an answer, wanted guidance to understand, and specified what they were confused about. 
+The user is asking for the difference between <context:annotation-config> and <context:component-scan>. The header was straightforward and the question had proper grammar. The asker made an effort to read to find an answer, wanted guidance to understand, and specified what they were confused about. 
 
 # Here's what not to do when asking a question. 
 Now here’s an example of a bad question:
