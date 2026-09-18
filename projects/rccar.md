@@ -10,7 +10,7 @@ labels:
 summary: "An RC car kit I was able to build."
 ---
 
-<img class="img-fluid" src="../img/car2.png">
+<img class="img-fluid" src="../img/car1.png">
 
 This is a RC car I made from a kit I got from Aliexpress. The purpose of this project is to learn about the basics of RC devices. I'm interested in making my own FPV drone in the future for fun.
 
