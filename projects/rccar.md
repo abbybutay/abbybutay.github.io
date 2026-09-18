@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/car2.png
 title: "Simple RC Car"
 date: 2025
 published: true
