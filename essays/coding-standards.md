@@ -16,16 +16,20 @@ Coding standards are rules/guidelines on how code is written and structed. The p
 An example of a common coding practice is naming variables and functions clearly.
 
 Here's an example of a function with an unclear name:
+```
 function foo(a) {
     return a + 2;
 }
+```
 
 Even if the name is unclear, it's easy to see what the function does. However, if the function was more complex, it'll be a bit harder to see what it does. 
 
 Here's the same function with a more specific name:
+```
 function addTwo(value) {
     return value + 2;
 }
+```
 
 The name of the function helps explain what it does. Properly naming variables can also help keep track on what it is. 
 
