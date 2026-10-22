@@ -35,15 +35,15 @@ The name of the function helps explain what it does. Properly naming variables c
 
 ## My Experience with ESLint
 
-One of the rules I understood was proper indentation, where it makes code more neat and readable. ESLint also informs you on whether a variable or function is used or not. I didn’t understand the purpose of the newline at the end of the file and using single quotes. 
+ESLint is a tool that helps with finding errors in your JavasScript code before running it. One of the rules I understood was proper indentation, where it makes code more neat and readable. ESLint also informs you on whether a variable or function is used or not. I didn’t understand the purpose of the newline at the end of the file and using single quotes. 
 
 ESLint feels similar to the Checkstyle plugin in Eclipse IDE. I remember that I mostly fixed indentation and had to add Javadoc comments. Both of these tools check for errors and if the code follows guidelines. 
 
 Checkstyle: 
-<img class="img-fluid" src="../img/cotton/eclipse.png">
+<img class="img-fluid" src="../img/eclipse.png">
 
 ESLint: 
-<img class="img-fluid" src="../img/cotton/eslint.png">
+<img class="img-fluid" src="../img/eslint.png">
 
 
 I did some research on why the rules I was confused about exist. I read on the official website that it’s useful for string style consistency and the rule can be disabled. The rule can also be changed to use double and backtick quotes instead. 
