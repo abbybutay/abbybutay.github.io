@@ -40,9 +40,11 @@ ESLint is a tool that helps with finding errors in your JavasScript code before 
 ESLint feels similar to the Checkstyle plugin in Eclipse IDE. I remember that I mostly fixed indentation and had to add Javadoc comments. Both of these tools check for errors and if the code follows guidelines. 
 
 What Checkstyle looks like:
+
 <img width="300" src="../img/eclipse.png">
 
 What ESLint looks like:
+
 <img width="300" src="../img/eslint.png">
 
 I did some research on why the rules I was confused about exist. I read on the official website that it’s useful for string style consistency and the rule can be disabled. The rule can also be changed to use double and backtick quotes instead. 
