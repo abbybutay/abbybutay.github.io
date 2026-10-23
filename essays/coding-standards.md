@@ -48,7 +48,7 @@ What ESLint looks like:
 
 <img width="700" src="../img/eslint.png">
 
-I did some research on why the rules I was confused about exist. I read on the [official website]([https://www.example.com](https://archive.eslint.org/docs/2.0.0/rules/quotes) that it’s useful for string style consistency and the rule can be disabled. The rule can also be changed to use double and backtick quotes instead. 
+I did some research on why the rules I was confused about exist. I read on the [official website](https://archive.eslint.org/docs/2.0.0/rules/quotes) that it’s useful for string style consistency and the rule can be disabled. The rule can also be changed to use double and backtick quotes instead. 
 
 About the newline at the end of the file, it's used because it's a common UNIX idiom. The website states that the benefits of it is that "newlines include the ability to concatenate or append to files as well as output files to the terminal without interfering with shell prompts."
 
