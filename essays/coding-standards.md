@@ -42,11 +42,11 @@ ESLint feels similar to the Checkstyle plugin in Eclipse IDE. I remember that I 
 
 What Checkstyle looks like:
 
-<img width="600" src="../img/eclipse.png">
+<img width="700" src="../img/eclipse.png">
 
 What ESLint looks like:
 
-<img width="600" src="../img/eslint.png">
+<img width="700" src="../img/eslint.png">
 
 I did some research on why the rules I was confused about exist. I read on the official website that it’s useful for string style consistency and the rule can be disabled. The rule can also be changed to use double and backtick quotes instead. 
 
