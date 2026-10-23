@@ -4,7 +4,7 @@ type: essay
 title: "Professionals Have (Coding) Standards"
 # All dates must be YYYY-MM-DD format!
 date: 2026-09-27
-published: false
+published: true
 labels:
   - ESLint
 ---
@@ -51,5 +51,6 @@ I did some research on why the rules I was confused about exist. I read on the o
 
 About the newline at the end of the file, it's used because it's a common UNIX idiom. The website states that the benefits of it is that "newlines include the ability to concatenate or append to files as well as output files to the terminal without interfering with shell prompts."
 
+In conclusion, coding standards make working with code more effiecient, with the help tools such as ESLint and Checkstyle. 
 
 
