@@ -12,6 +12,7 @@ labels:
 # Overview
 
 The problem: There may be broken or damaged facilities on campus that other students may not yet be aware of, such as water fountains, vending machines, bathrooms, or sidewalks. 
+
 The solution: The Maintenance Reporter allows students to make an account and report current maintenance issues around UH Manoa. Then, students can view existing reports made by others, check the status, and “favorite” certain issues that they want status updates on. 
 
 # Proposers
